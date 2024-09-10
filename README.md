@@ -8,6 +8,6 @@ My common daily use:
 🪓 🧑‍🔬 🧰 🚀 👷‍♂️ 👨‍💻 🧯 🌠 🙏
 
 > [!NOTE]
-> Want to know more about me? Feel free to contact me on [LinkedIn](www.linkedin.com/in/marcofeliponi).
+> Want to know more about me? Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marcofeliponi/).
 
 ##
