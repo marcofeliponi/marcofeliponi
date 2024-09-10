@@ -1,12 +1,13 @@
-### Hey, I'm Marco Antonio! 👋
+## Whatever good things we build end up building us 🥷
 
-- 💻 I'm a Full Stack Software developer and a Software Engineer student, also I'm passionate about technologies and it's infinite possibilites.
+Full Stack Software Developer with over 3 year of hands-on experience.
+
+My common daily use:
+- JS, TS, Node, Vue, AWS, Serverless, NoSQL, SQL.
+
+🪓 🧑‍🔬 🧰 🚀 👷‍♂️ 👨‍💻 🧯 🌠 🙏
+
+> [!NOTE]
+> Want to know more about me? Feel free to contact me on [LinkedIn](www.linkedin.com/in/marcofeliponi).
 
 ##
-
-<div>
-  Connect with me on LinkedIn:
-  
-  <a href="https://www.linkedin.com/in/marcofeliponi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-</div>
